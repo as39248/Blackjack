@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1717528958 source:d:\casino games\casino games\main.cpp
+	"Cards.h"
+	"Chips.h"
+	"Blackjack.h"
+	<iostream>
+
+1717528958 d:\casino games\casino games\include\cards.h
+	<string>
+	<vector>
+
+1717438708 source:d:\casino games\casino games\src\cards.cpp
+	"Cards.h"
+	<bits/stdc++.h>
+	<algorithm>
+	<random>
+
+1717528958 d:\casino games\casino games\include\blackjack.h
+	"Cards.h"
+	"Chips.h"
+	<string>
+
+1717528958 source:d:\casino games\casino games\src\blackjack.cpp
+	"Blackjack.h"
+	"Cards.h"
+	<iostream>
+	<vector>
+	<string>
+	<tuple>
+	<sstream>
+	<cstring>
+	<list>
+	<bits/stdc++.h>
+	<stdlib.h>
+
+1717525832 d:\casino games\casino games\include\chips.h
+
+1717618898 source:d:\casino games\casino games\src\chips.cpp
+	"Chips.h"
+	<iostream>
+
